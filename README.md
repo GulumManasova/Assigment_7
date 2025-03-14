@@ -32,7 +32,7 @@ pip install PyQt6
    ```
 2. Run the application:
    ```sh
-   python main.py
+   python calcul.py
    ```
 
 
