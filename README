@@ -1,1 +1,33 @@
+# PyQt6 Calculator
+
+This is a simple calculator application built using **PyQt6**. The UI is designed using **Qt Designer**, and the layout is stored in a `.ui` file (`calc.ui`). The application allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## Features
+- Intuitive UI with a dark theme.
+- Basic arithmetic operations: `+`, `-`, `*`, `/`.
+- Clear (`C`) button to reset calculations.
+- Uses a `.ui` file for easy UI modifications.
+- Implemented using **PyQt6** for a modern look.
+
+## Installation
+
+### Prerequisites
+Ensure you have Python 3 installed. You also need to install `PyQt6` if you haven't already:
+
+```sh
+pip install PyQt6
+```
+
+## Running the Application
+
+1. Clone the repository (if using version control):
+   ```sh
+   git clone https://github.com/your-repo/pyqt6-calculator.git
+   cd pyqt6-calculator
+   ```
+2. Ensure the `calc.ui` file is in the project directory.
+3. Run the main Python script:
+   ```sh
+   python main.py
+   ```
 
